@@ -1,0 +1,26 @@
+{
+  "name": "NLW_Happy",
+  "version": "1.0.0",
+  "description": "![Home do projeto](happy-home.png) #### By Rocketseat Esse é o projeto proposto na NLW dessa semana 12/10 até 16/10",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon src/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arcmarcos/NLW_Happy.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arcmarcos/NLW_Happy/issues"
+  },
+  "homepage": "https://github.com/arcmarcos/NLW_Happy#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "hbs": "^4.1.1",
+    "nodemon": "^2.0.5",
+    "sqlite-async": "^1.1.0"
+  }
+}
